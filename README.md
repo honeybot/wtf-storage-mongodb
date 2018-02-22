@@ -8,6 +8,7 @@
      {
         "name": "mongo-demo-storage",
         "host": "localhost",
+        "port": 27017,
         "auth_db": "admin",
         "user": "root",
         "password": "password",
